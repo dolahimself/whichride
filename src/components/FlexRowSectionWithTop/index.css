@@ -129,6 +129,12 @@ img {
     padding-right: 30px;
     padding-left: 30px;
   }
+  .body-subscription-heading {
+    width: 100%;
+  }
+  .body-subscription-text {
+    width: 100%;
+  }
 }
 
 @media screen and (max-width: 768px) {
